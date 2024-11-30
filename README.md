@@ -6,12 +6,12 @@
 
 - **Export Notes**: Extracts note titles and contents from the macOS Notes app.
 - **Markdown Format**: Saves notes in a `.md` file with headers and proper formatting.
-- **User-Friendly**: Requires no setup—just run the app.
+- **User-Friendly**: It requires no setup. Just run the app.
 
 ## How It Works
 
-1. Open the macOS Notes app and select notes you want to export.
-2. Launch the **NTMr** app.
+1. Open the macOS Notes app and select the notes you want to export.
+2. Launch the **NTM** app.
 3. Choose a location to save the Markdown file.
 4. The app exports the selected notes into a single `.md` file.
 

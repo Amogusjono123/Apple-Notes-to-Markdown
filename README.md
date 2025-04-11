@@ -10,7 +10,7 @@
 
 ## How It Works
 
-1. Open the macOS Notes app and select the notes you want to export.
+1. Open the macOS Notes app and select the notes you want to export (while you select the notes you want to export and hold command.)
 2. Launch the **NTM** app.
 3. Choose a location to save the Markdown file.
 4. The app exports the selected notes into a single `.md` file.
